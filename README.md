@@ -56,3 +56,10 @@ npm run dev
 
 Create a `.env` file inside the `/server` folder and add:
 
+```env
+MONGO_URI=your_mongodb_connection_string
+PORT=5001
+
+Update the server/config/db.js file to use:
+
+const uri = process.env.MONGO_URI;
