@@ -51,3 +51,8 @@ npm install
 npm run dev
 
 
+
+## 🔐 Environment Variables
+
+Create a `.env` file inside the `/server` folder and add:
+
