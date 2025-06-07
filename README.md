@@ -28,6 +28,7 @@
 ## 🛠️ Tech Stack
 
 ### 🧩 Frontend
+- React.js (for building user interfaces)
 - HTML5, CSS3, CSS Tailwind, JavaScript (Vanilla)
 - Redux Toolkit for state management
 - Form validation, toggles, and role-based interactivity
